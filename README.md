@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mai
+- 👋 Hi, I’m Mai [meɪ]
 - 👀 I’m interested in Visualization
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on back office settings
