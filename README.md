@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mai [meɪ]
 - 👀 I’m interested in Visualization
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on back office settings
+- 💞️ I’m looking to collaborate on back office settings, accessibility, and visualization
 - 📫 How to reach me is send me an email
 
 <!---
